@@ -7,5 +7,5 @@ Hi! I'm Bilin :) An undergraduate student at University of Toronto✨
   - I'm in Bioinformatics Spec, Stats Spec & Math Minor!
   - I can speak some Korean.
 - 💬 I know about:
-  - Python & R
+  - Python & R & Unix & SQL 
 
